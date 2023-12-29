@@ -1,3 +1,5 @@
+-- Data Set Link: https://ourworldindata.org/covid-deaths
+
 USE PortfolioProject;
 SELECT * 
 FROM dbo.covidvaccinations
